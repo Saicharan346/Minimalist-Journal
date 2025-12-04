@@ -1,0 +1,5 @@
+{
+  "name": "Minimalist Journal",
+  "description": "A clean and simple application for daily journaling. All your entries are stored securely in your browser.",
+  "requestFramePermissions": []
+}
